@@ -1,3 +1,3 @@
 class Setting < ApplicationRecord
-    has_one :as
+    has_one :asmlmmlmlmlm
 end
