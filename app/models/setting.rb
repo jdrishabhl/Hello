@@ -1,3 +1,3 @@
 class Setting < ApplicationRecord
-    has_one :faqq
+    has_one :as
 end
