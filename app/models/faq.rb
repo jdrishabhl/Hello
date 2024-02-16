@@ -5,4 +5,5 @@ class Faq < ApplicationRecord
      has_one :contact_u
      has_one :contact_u
      lllll
+     mlml
 end
